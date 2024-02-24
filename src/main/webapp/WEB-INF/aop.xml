@@ -1,0 +1,6 @@
+<aspectj>
+    <aspects>
+        <aspect name="Controller.TracingAspect"/>
+    </aspects>
+    <weaver options="-verbose -showWeaveInfo"/>
+</aspectj>
